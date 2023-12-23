@@ -1,0 +1,21 @@
+.mat-toolbar {
+  background-color: darkblue;
+}
+
+.espacamento {
+    flex: 1 1 auto;
+  }
+
+span{
+    padding: 10px;
+}
+
+  img{
+    height: 60px;
+    width: 60px;  
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
